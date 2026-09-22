@@ -1,6 +1,5 @@
 # Git Practice
 * [Clean code is not the same as clear code: Comments were never the problem](https://dev.to/georgekobaidze/clean-code-is-not-the-same-as-clear-code-comments-were-never-the-problem-42n?via=dailydev)
-
 ## Reflection
 Throughout the multiple course and personal projects I have done, I've always felt the need to make code compartmentalized and self-explaining, whether that be writing long, descriptive variable names or hiding away complex, single-use blocks of code behind a function. From this article, I find it interesting how it challenges the way I've organized code. 
 
